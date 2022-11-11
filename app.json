@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "SOWS",
+    "name": "SOWAYSO",
     "slug": "SOWS",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/bit.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/14.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
